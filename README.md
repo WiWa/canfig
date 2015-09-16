@@ -1,1 +1,2 @@
-#Can Fig\n##Because configs are borings.
+#Can Fig  
+##Because configs are borings.
